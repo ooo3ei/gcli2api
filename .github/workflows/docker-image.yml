@@ -10,7 +10,7 @@ jobs:
     
     permissions:
       contents: read 
-      packages: write ＃ 摧送镜像需要这个杈限
+      packages: write ＃摧送镜像需要这个杈限
 
     steps:
       - name: Checkout code
