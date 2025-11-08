@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v4 
         with:
           push: true
-          tags: ghcr.io/1653421500/gcli2api:latest
+          tags: ghcr.io/ooo3ei/gcli2api:latest
